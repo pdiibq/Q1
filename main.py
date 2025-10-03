@@ -1,1 +1,2 @@
-print('GitHub')
+name = 'africa'
+print(name.upper())
